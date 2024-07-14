@@ -1,0 +1,9 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  
+  width: 100%;
+  background-image: linear-gradient(to left, #cfd9df 0%, #e2ebf0 100%);
+
+}
